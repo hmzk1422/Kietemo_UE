@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\source\\newproject\\newproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\newprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\unrealeditor\\development\\newproject\\definitions.newproject.h",
+            "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\source\\newproject\\newproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

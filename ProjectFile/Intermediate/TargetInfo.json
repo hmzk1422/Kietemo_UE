@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Newproject",
+			"Path": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject2\\Source\\Newproject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NewprojectEditor",
+			"Path": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject2\\Source\\NewprojectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

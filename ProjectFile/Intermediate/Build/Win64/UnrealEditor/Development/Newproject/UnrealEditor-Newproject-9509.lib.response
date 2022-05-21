@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Newproject-9509.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\NewprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\MapGeneration.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\MyClass.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\WorldGeneration.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\Newproject.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\MapGeneration.gen.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\Newproject.init.gen.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\WorldGeneration.gen.cpp.obj"
+"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\Default.rc2.res"
+/OUT:"C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject-9509.lib"

@@ -1,0 +1,22 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Himaska\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for NewprojectEditor (source file removed)
+  Parsing headers for NewprojectEditor
+    Running UnrealHeaderTool "C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Newproject2.uproject" "C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\NewprojectEditor\Development\NewprojectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Himaska\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for NewprojectEditor in 3,4449792 seconds
+  Deleted hot-reload file: C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject-9509.lib
+  Building NewprojectEditor...
+  Using Visual Studio 2022 14.31.31107 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Newproject unity file: MyClass.cpp, WorldGeneration.cpp, Newproject.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1,5 GB free memory per action, 5,63 GB available: limiting max parallel actions to 3
+  Building 4 actions with 3 processes...
+  [1/4] Compile Newproject.init.gen.cpp
+  [2/4] Link UnrealEditor-Newproject.lib
+     Creating library C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject.lib and object C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject.exp
+  [3/4] Link UnrealEditor-Newproject.dll
+     Creating library C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject.suppressed.lib and object C:\Users\Himaska\Documents\Unreal Projects\Newproject2\Intermediate\Build\Win64\UnrealEditor\Development\Newproject\UnrealEditor-Newproject.suppressed.exp
+  [4/4] WriteMetadata NewprojectEditor.target
+  Total time in Parallel executor: 8,38 seconds
+  Total execution time: 16,71 seconds

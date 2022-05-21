@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "NewprojectEditor Editor Win64 Development (Newproject)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

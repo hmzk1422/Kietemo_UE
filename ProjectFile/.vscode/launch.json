@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Newproject (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Newproject Win64 Debug Build",
+			"program": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "Newproject (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Newproject Win64 DebugGame Build",
+			"program": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "Newproject (Development)",
+			"request": "launch",
+			"preLaunchTask": "Newproject Win64 Development Build",
+			"program": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Binaries\\Win64\\UnrealGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "Newproject (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Newproject Win64 Shipping Build",
+			"program": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "Newproject (Test)",
+			"request": "launch",
+			"preLaunchTask": "Newproject Win64 Test Build",
+			"program": "C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "NewprojectEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "NewprojectEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Newproject.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "NewprojectEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "NewprojectEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Newproject.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "NewprojectEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "NewprojectEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"args": [
+				"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Newproject.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\Newproject.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0EA"
+		}
+	]
+}

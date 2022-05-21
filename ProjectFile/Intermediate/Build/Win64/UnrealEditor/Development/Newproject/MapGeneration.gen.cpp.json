@@ -1,0 +1,30 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\mapgeneration.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\newprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\unrealeditor\\development\\newproject\\definitions.newproject.h",
+            "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\source\\newproject\\public\\mapgeneration.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\landscape.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\landscapeproxy.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\landscapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\landscapephysicalmaterial.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\landscapeweightmapusage.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\landscapeweightmapusage.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\landscapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\actorpartition\\partitionactor.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\partitionactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\classes\\ilandscapesplineinterface.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\ilandscapesplineinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\landscapeproxy.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\landscape\\public\\landscapeblueprintbrushbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\landscapeblueprintbrushbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\landscape.generated.h",
+            "c:\\users\\himaska\\documents\\unreal projects\\newproject2\\intermediate\\build\\win64\\unrealeditor\\inc\\newproject\\mapgeneration.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

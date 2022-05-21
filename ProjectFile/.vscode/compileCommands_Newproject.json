@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Himaska\\\\Documents\\\\Unreal Projects\\\\Newproject\\\\Source\\\\Newproject\\\\Newproject.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject\\Newproject.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Himaska\\\\Documents\\\\Unreal Projects\\\\Newproject\\\\Source\\\\Newproject\\\\Newproject.cpp",
+		"command": "cl.exe @\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject\\Newproject.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Himaska\\\\Documents\\\\Unreal Projects\\\\Newproject\\\\Source\\\\Newproject\\\\Newproject.h",
+		"command": "cl.exe @\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject\\Newproject.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Himaska\\\\Documents\\\\Unreal Projects\\\\Newproject\\\\Source\\\\Newproject\\\\Private\\\\MyClass.cpp",
+		"command": "cl.exe @\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject\\Newproject.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Himaska\\\\Documents\\\\Unreal Projects\\\\Newproject\\\\Source\\\\Newproject\\\\Private\\\\MyClass.h",
+		"command": "cl.exe @\"C:\\Users\\Himaska\\Documents\\Unreal Projects\\Newproject\\.vscode\\compileCommands_Newproject\\Newproject.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0EA\\Engine\\Source"
+	}
+]
