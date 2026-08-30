@@ -300,11 +300,13 @@ The current work focuses on selectively recovering and modernizing the most inte
 * [ ] Document technical implementations
 * [ ] Produce playable prototypes of recovered systems
 
+### Future Ideas
+* [ ]  Adaptive enemy behavior: Experiment with LLM- or reinforcement-learning-assisted behavior for enemies such as Traders, Researchers, and Yokai, under strict behavioral constraints. The goal is to make enemies feel less predictable while maintaining gameplay balance and reproducibility.
+* [ ] Procedurally generated Yokai: Experiment with constrained generative systems to create new Yokai archetypes, combining different behaviors, abilities, weaknesses, and visual characteristics. The intent is to reinforce the idea that not every Yokai is documented or understood, making encounters feel genuinely unknown.
+* [ ] Emergent horror: Explore systems where enemy behavior, environmental conditions, and procedural generation interact to produce situations that are difficult for the player to anticipate, rather than relying entirely on scripted encounters.
+
 ---
 
 # Keywords
 
 **Unreal Engine · C++ · Blueprints · Procedural Generation · Perlin Noise · Game Development · Survival Horror · FPS · Samurai · Yokai · Japanese Folklore**
-
-```
-```
